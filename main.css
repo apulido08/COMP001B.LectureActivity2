@@ -5,3 +5,12 @@ header {
 p{
     background-color: brown;
 }
+
+header {
+    padding: 1em;
+    margin: 2em;
+}
+
+p {
+    border: 5px dotted blue;
+}
