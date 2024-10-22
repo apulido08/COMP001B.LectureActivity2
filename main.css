@@ -3,7 +3,7 @@ header {
 }
 
 p{
-    background-color: brown;
+    background-color: teal;
 }
 
 header {
@@ -13,4 +13,8 @@ header {
 
 p {
     border: 5px dotted blue;
+    width: 300px;
+}
+.fixed-width-1 {
+    margin: auto;
 }
